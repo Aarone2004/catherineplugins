@@ -1,0 +1,3 @@
+This really isn't a standalone plugin.
+Here's instructions:
+Open 'item' and drag the files inside cat_hl2rp/plugins/book/item/.
